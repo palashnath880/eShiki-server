@@ -1,101 +1,86 @@
 [
     {
         "id": 1,
-        "name": "Javascript Basic",
+        "name": "Javascript For Beginners",
         "thumbnail": "",
         "category": 1,
         "totalEnroll": 400,
         "rating": {
             "rate": 4.5,
             "person": 320
-        }
+        },
+        "description": "Take this Javascript training course and start learning Javascript today.As a business guy I have no place in programming.' Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work.If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript"
     },
     {
         "id": 2,
-        "name": "Javascript Advanced",
+        "name": "Modern React And Redux",
         "thumbnail": "",
         "category": 1,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
             "person": 250
-        }
+        },
+        "description": "You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!"
     },
     {
         "id": 3,
-        "name": "Core PHP",
-        "thumbnail": "",
-        "category": 1,
-        "totalEnroll": 300,
-        "rating": {
-            "rate": 4.8,
-            "person": 250
-        }
-    },
-    {
-        "id": 3,
-        "name": "Laravel",
-        "thumbnail": "",
-        "category": 3,
-        "totalEnroll": 300,
-        "rating": {
-            "rate": 4.8,
-            "person": 250
-        }
-    },
-    {
-        "id": 3,
-        "name": "Cake PHP",
-        "thumbnail": "",
-        "category": 3,
-        "totalEnroll": 300,
-        "rating": {
-            "rate": 4.8,
-            "person": 250
-        }
-    },
-    {
-        "id": 3,
-        "name": "Code Ignetor",
-        "thumbnail": "",
-        "category": 3,
-        "totalEnroll": 300,
-        "rating": {
-            "rate": 4.8,
-            "person": 250
-        }
-    },
-    {
-        "id": 3,
-        "name": "dJango basic",
+        "name": "PHP for Beginners",
         "thumbnail": "",
         "category": 2,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
             "person": 250
-        }
+        },
+        "description": "Are you wanting to get into Web development, but are not sure where to start? So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction.Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too? Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast.Whatever the reason, this course is for you.This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch."
     },
     {
-        "id": 3,
-        "name": "Node JS",
+        "id": 4,
+        "name": "Laravel",
+        "thumbnail": "",
+        "category": 2,
+        "totalEnroll": 300,
+        "rating": {
+            "rate": 4.8,
+            "person": 250
+        },
+        "description": "Learn Laravel with this brand new course covering Laravel from A-Z for beginners!Laravel is the most popular choice among PHP developers these days. It's easiest to start with, most fun to use and a very performant ecosystem of tools, that just lets you get the job done.Laravel can change the way you look at PHP in general. With PHP 8 ahead, it's a completely different language than it used to be.Laravel is like Ruby on Rails in the PHP world. Or even better. It's expressive, fun, fluent, easy to learn, easy to use. Beginners and professionals alike just love it! You have the chance to join this group of happy people, having fun while building things and getting paid to do so .This course is the only resource you will ever need (apart from my other courses) to learn everything about Laravel. How to set it up, how to get started, and then, how to achieve all the powerful things modern web development has to offer!"
+    },
+    {
+        "id": 5,
+        "name": "Node JS Advanced",
         "thumbnail": "",
         "category": 1,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
             "person": 250
-        }
+        },
+        "description": "Go beyond the basics of Node!  This course will give you the skills needed to become a top Node engineer.Query Caching with Redis? You will learn it.  The Node Event Loop? Included.  Scalable File Upload? Of course! This is a must-take course if you work with Node.Node Internals: Here's one of the most common interview questions you'll face when looking for a Node job: 'Can you explain Node's Event Loop?' There are two types of engineers: those who can describe the Event Loop and those who cannot!  This course will ensure that you are incredibly well prepared to answer that most important question.  Besides being critical for interviews, knowledge of the Event Loop will give you a better understanding of how Node works internally.  Many engineers know not to 'block' the Event Loop, but they don't necessarily understand why.  You will be one of the engineers who can clearly articulate the performance profile of Node and its Event Loop."
     },
     {
-        "id": 3,
-        "name": "React JS",
+        "id": 6,
+        "name": "Python Django",
         "thumbnail": "",
-        "category": 1,
+        "category": 3,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
             "person": 250
-        }
+        },
+        "description": "Ready to learn Django? In this course we will start from the very basics of what Django is to completing and deploying a fully functional website.The website we will build as we learn will be an online platform where developers from around the world can create a profile and share their work with others.While this course is Beginner friendly, all skill levels can learn here. We wont just be learning the basics, we will be applying what we know to add awesome site features like messaging other users, leaving comments and rating projects and so much more. This course will leave all skill levels with a new load of knowledge and different approaches of completing tasks.For those who are more advanced and maybe have already built out a few applications, you can simply skip through or fast-forward to get to the 'good stuff'. In the second half of the course we will work on a voting system, messaging, sending emails and even building out an API. Even if you have done these things already you can see a new approach and build an awesome website in the process."
+    },
+    {
+        "id": 7,
+        "name": "HTML & HTML5 For Beginners",
+        "thumbnail": "",
+        "category": 4,
+        "totalEnroll": 300,
+        "rating": {
+            "rate": 4.8,
+            "person": 250
+        },
+        "description": " As a Beginner to Advanced level Everything you want to learn about HTML is in this course and you can Fire your Master HTML 5 and learn all the tricks of HTML 5,it's very easy once you know how!Are you struggling to deal with HTML 5 side of your Web Development? Then what you are about to learn from this course will blow your mind.HTML 5 is the latest and most well adopted standard of HyperText Markup Language. Although it is not a programming language, it is still an essential component of web applications, and even sometimes modern desktop and mobile applications. Familiarity with the HTML 5 specification is an important skill that all front-end developers must possess.HTML 5 is supported by all modern browsers.HTML 5 is more device friendly. It is easy for use.HTML 5 can help creating attractive websites with CSS, JavaScript, etc. HTML 5 supports SVG (Scalable Vector Graphics - Wikipedia) and other virtual graphics. In earlier versions, the use of vector graphics was possible only in combination with such technologies as Flash, VML, etc.The code becomes cleaner mainly due to replacing div tags with Semantic elements, which help better structure content of the web page and improve readability.HTML 5 supports geo-location, which makes it possible to determine the users’ location."
     }
 ]
