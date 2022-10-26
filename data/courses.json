@@ -20,7 +20,7 @@
         "category": 1,
         "price": 4700,
         "duration": "3 Hours",
-        "totalEnroll": 300,
+        "totalEnroll": 500,
         "rating": {
             "rate": 4.8,
             "person": 250
@@ -34,7 +34,7 @@
         "category": 2,
         "price": 6500,
         "duration": "5 Hours",
-        "totalEnroll": 300,
+        "totalEnroll": 250,
         "rating": {
             "rate": 4.8,
             "person": 250
@@ -48,7 +48,7 @@
         "category": 2,
         "duration": "4 Hours",
         "price": 5000,
-        "totalEnroll": 300,
+        "totalEnroll": 550,
         "rating": {
             "rate": 4.8,
             "person": 250
@@ -62,7 +62,7 @@
         "category": 1,
         "duration": "5 Hours",
         "price": 6000,
-        "totalEnroll": 300,
+        "totalEnroll": 700,
         "rating": {
             "rate": 4.8,
             "person": 250
@@ -76,7 +76,7 @@
         "category": 3,
         "duration": "4 Hours",
         "price": 5500,
-        "totalEnroll": 300,
+        "totalEnroll": 900,
         "rating": {
             "rate": 4.8,
             "person": 250
@@ -90,7 +90,7 @@
         "category": 4,
         "duration": "3 Hours",
         "price": 4000,
-        "totalEnroll": 300,
+        "totalEnroll": 580,
         "rating": {
             "rate": 4.8,
             "person": 250
