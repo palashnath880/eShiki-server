@@ -10,7 +10,6 @@ const categories = require('./data/categories.json');
 const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
-    console.log('hello');
     res.send(courses);
 });
 
@@ -20,12 +19,14 @@ app.get('/categories', (req, res) => {
 
 app.get('/categories/:id', (req, res) => {
     const id = req.params.id;
-    const filterCourses = courses.filter(item => item.category === parseInt(id));
+    const filterCourses = courses.filter(course => parseInt(course.category) === parseInt(id));
     res.send(filterCourses);
 });
 
-app.get('/courses', (req, res) => {
-    res.send(courses);
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const findCourse = courses.filter(course => parseInt(course.id) === parseInt(id));
+    res.send(findCourse);
 });
 
 app.get('*', (req, res) => {
