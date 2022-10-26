@@ -2,8 +2,10 @@
     {
         "id": 1,
         "name": "Javascript For Beginners",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/L6Jmnc7g/javascript.jpg",
         "category": 1,
+        "price": 6000,
+        "duration": "4 Hours",
         "totalEnroll": 400,
         "rating": {
             "rate": 4.5,
@@ -14,8 +16,10 @@
     {
         "id": 2,
         "name": "Modern React And Redux",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/3Nc7t1yw/react-redux.jpg",
         "category": 1,
+        "price": 4700,
+        "duration": "3 Hours",
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
@@ -26,8 +30,10 @@
     {
         "id": 3,
         "name": "PHP for Beginners",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/nzVJZgBz/php.jpg",
         "category": 2,
+        "price": 6500,
+        "duration": "5 Hours",
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
@@ -38,8 +44,10 @@
     {
         "id": 4,
         "name": "Laravel",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/wjJHkh96/laravel.jpg",
         "category": 2,
+        "duration": "4 Hours",
+        "price": 5000,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
@@ -50,8 +58,10 @@
     {
         "id": 5,
         "name": "Node JS Advanced",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/fT1DXHn2/node-js.jpg",
         "category": 1,
+        "duration": "5 Hours",
+        "price": 6000,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
@@ -62,8 +72,10 @@
     {
         "id": 6,
         "name": "Python Django",
-        "thumbnail": "",
+        "thumbnail": "https://i.postimg.cc/76Xq2ww0/django.jpg",
         "category": 3,
+        "duration": "4 Hours",
+        "price": 5500,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
@@ -73,9 +85,11 @@
     },
     {
         "id": 7,
-        "name": "HTML & HTML5 For Beginners",
-        "thumbnail": "",
+        "name": "HTML5 Crash Course",
+        "thumbnail": "https://i.postimg.cc/sf6VfjnR/html.jpg",
         "category": 4,
+        "duration": "3 Hours",
+        "price": 4000,
         "totalEnroll": 300,
         "rating": {
             "rate": 4.8,
