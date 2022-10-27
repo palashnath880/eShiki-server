@@ -1,9 +1,30 @@
 [
     {
         "id": 1,
-        "name": "Palash",
-        "img": "Palash",
+        "name": "Rashad Simonis",
         "course": 2,
-        "profession": ""
+        "profession": "Senior Web Developer",
+        "image": "https://i.postimg.cc/G2KPBvXr/instructor-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kimi",
+        "course": 2,
+        "profession": "Frontend Developer",
+        "image": "https://i.postimg.cc/T1Hr0f84/instructor-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Denny",
+        "course": 2,
+        "profession": "Node JS Developer",
+        "image": "https://i.postimg.cc/DyJsFV37/instructor-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Govindo",
+        "course": 2,
+        "profession": "PHP Developer",
+        "image": "https://i.postimg.cc/VvNqX5ht/instructor-4.jpg"
     }
 ]
