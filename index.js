@@ -8,6 +8,7 @@ app.use(cors());
 
 const categories = require('./data/categories.json');
 const courses = require('./data/courses.json');
+const instructor = require('./data/course-instructor.json');
 
 app.get('/', (req, res) => {
     res.send(courses);
@@ -27,6 +28,10 @@ app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const findCourse = courses.filter(course => parseInt(course.id) === parseInt(id));
     res.send(findCourse);
+});
+
+app.get('/instructor', (req, res) => {
+    res.send(instructor);
 });
 
 app.get('*', (req, res) => {
